@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Ar\'rahikul Makhtoom ',
+      title: 'Ar\'rahikul Makhtoom',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: primaryColor,
